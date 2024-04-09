@@ -1,6 +1,6 @@
 # Chat-App using MERN
 
-![Chat App Demo]()
+![Chat App Demo](./frontend/src/assets/images/StartMessage.png)
 
 This MERN stack chat application leverages the power of MongoDB, Express.js, React.js, and Node.js to provide seamless real-time communication. With JWT authentication, Socket.io for instant messaging, and Tailwind CSS for styling, this app offers a modern and intuitive chatting experience. 
 
