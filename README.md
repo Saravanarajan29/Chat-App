@@ -64,5 +64,9 @@ To get started with the MERN Chat App, follow these steps:
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue on GitHub. Your feedback is greatly appreciated!
 
-Thank you for using the MERN Chat App. Happy chatting!
+## Author
+
+Developed by **Saravanarajan**.
+
+Happy chatting!🐱‍🏍
 
